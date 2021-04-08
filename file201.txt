@@ -1,0 +1,15 @@
+ El volumen de la unidad C no tiene etiqueta.
+ El n£mero de serie del volumen es: 005F-34E9
+
+ Directorio de C:\red\Git\libroLocal\libro
+
+07/04/2021  10:16 p. m.    <DIR>          .
+07/04/2021  10:16 p. m.    <DIR>          ..
+07/04/2021  09:13 p. m.             6,352 .gitignore
+07/04/2021  09:14 p. m.               490 file1.txt
+07/04/2021  09:19 p. m.               547 file2.txt
+07/04/2021  10:16 p. m.                 0 file201.txt
+07/04/2021  09:56 p. m.               600 file3.txt
+07/04/2021  09:13 p. m.                62 README.md
+               6 archivos          8,051 bytes
+               2 dirs  129,834,008,576 bytes libres
